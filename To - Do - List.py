@@ -6,7 +6,7 @@ def main():
         print("2.Show Tasks")
         print("3.Mark Task as Done")
         print("4.Delete Task")
-        print("4.Exit")
+        print("5.Exit")
         choice=input("enter your chice:")
 
         if choice =='1':
